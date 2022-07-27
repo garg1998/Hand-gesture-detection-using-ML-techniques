@@ -1,4 +1,4 @@
-# Hand-gesture-detection-using-ML-techniques
+# Hand-gesture-detection-using-ML-techniques (final year project)
 
 The aim of this work to obtain an accurate model for detection of hand gestures using EMG signals, with a vision to 
 control prosthetic devices. The EMG signals are processed to obtain various time and frequency domain features. In 
