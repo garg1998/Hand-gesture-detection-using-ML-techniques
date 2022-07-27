@@ -8,3 +8,11 @@ reduction, Principle component analysis (PCA) is used. The various Machine learn
 Random Forest, K-Nearest Neighbours (KNN) and Decision tree for classification. The results demonstrate KNN 
 when used with a feature set with windowing, as the best classifier (accuracy of 98.44%). Also, the results show that 
 the overall feature set with windowing performs better than the one without. 
+
+The repository contains the follwing files:
+
+1. Time & Frequency domain feature extarction code written in MATLAB
+2. Time & Frequency domain feature extarction code after application of windowing technique, all written in MATLAB
+3. Dataset in csv for both the cases
+4. Python code
+
