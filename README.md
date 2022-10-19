@@ -15,5 +15,5 @@ The repository contains the follwing files:
 2. Time & Frequency domain feature extarction code after application of windowing technique, all written in MATLAB
 3. Dataset in csv for both the cases
 4. Python code
-5. Power point presentation
+5. Project Report
 
